@@ -15,7 +15,7 @@ The repository is primarily to practice classification of multi class data sets.
 - [ ] **Build a NN around the train set.**
 - [ ] **Divide dataset into training, dev and test sets.**
 - [ ] **Prepare dataset for analysis.**
-- [ ] **Set up repository and expectations.**
+- [X] **Set up repository and expectations.**
 
 
 Each of these steps will in themselves requires multiples facets of programming. For every release, tick off one the above.
